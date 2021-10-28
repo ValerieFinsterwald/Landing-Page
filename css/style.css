@@ -1,0 +1,41 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@300&display=swap');
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import url('components/banner.css');
+@import url('components/buttons.css');
+@import url('components/container.css');
+@import url('components/cards.css');
+@import url('components/footer.css');
+
+body {
+  margin: 0;
+  font-family: 'Zen Maru Gothic', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-size: 14px;
+}
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 45px;
+}
+
+h2 {
+  color: rgb(98, 34, 8);
+  font-family: 'Amatic SC', cursive;
+  font-size: 35px;
+  text-align: center;
+}
+
+h3 {
+  color: rgb(98, 34, 8);
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+}
